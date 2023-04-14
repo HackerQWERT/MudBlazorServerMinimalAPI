@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Vtjh4N1KVXa9EouA5jiIZvBIuPK1s7qN89fi/DMgAi4=",
+  "Source": "MudBlazorServer",
+  "BasePath": "_content/MudBlazorServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
